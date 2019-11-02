@@ -1,0 +1,6 @@
+let
+        var x : int := 32
+        var y : int := -512
+in
+        printint(2*x + y)
+end

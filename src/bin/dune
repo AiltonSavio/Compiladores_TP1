@@ -1,0 +1,6 @@
+(executable
+  (name driver)
+  (libraries tigris)
+  (flags
+    (:standard -warn-error -A))
+)
